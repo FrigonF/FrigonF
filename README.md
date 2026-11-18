@@ -2,17 +2,17 @@
 
 \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020403,50:062A25,100:00F5D4&height=200&section=header&text=FRIGON&fontSize=75&fontColor=00F5D4&fontAlignY=38&desc=BEYOND%20THE%20ORDINARY&descAlignY=60&descSize=15&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:020403,50:062A25,100:00F5D4\&height=200\&section=header\&text=FRIGON\&fontSize=75\&fontColor=00F5D4\&fontAlignY=38\&desc=BEYOND%20THE%20ORDINARY\&descAlignY=60\&descSize=15\&animation=fadeIn)" width="100%"/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=AI+%26+SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=2500\&pause=900\&color=00F5D4\&center=true\&vCenter=true\&width=650\&lines=AI+%26+SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING)." />
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=AI+%26+SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=2500\&pause=900\&color=00F5D4\&center=true\&vCenter=true\&width=650\&lines=AI+%26+SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING)." alt="Typing animation"/>
 
 \<br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=FrigonF&style=for-the-badge&color=00F5D4&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=FrigonF\&style=for-the-badge\&color=00F5D4\&label=PROFILE+VISITORS)" />
+\<img src="[https://komarev.com/ghpvc/?username=FrigonF&style=for-the-badge&color=00F5D4&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=FrigonF\&style=for-the-badge\&color=00F5D4\&label=PROFILE+VISITORS)"/>
 
 \</div>
 
 ---
 
-\<h2 align="center"> ⌨️ SYSTEM INITIALIZED \</h2>
+\<h2 align="center">⌨️ SYSTEM INITIALIZED\</h2>
 
 ```bash
 ┌──(FRIGON㉿DEV)-[~]
@@ -25,7 +25,7 @@
 [+] Status: Currently Building...
 ```
 
-\<h2 align="center"> ◈ ABOUT ME \</h2>
+\<h2 align="center">◈ ABOUT ME\</h2>
 
 Hey! I'm **Frigon**, a developer passionate about technology, artificial intelligence and building meaningful digital products.
 
@@ -37,27 +37,25 @@ Hey! I'm **Frigon**, a developer passionate about technology, artificial intelli
 
 > "The future isn't something you wait for. It's something you build."
 
-\<h2 align="center"> ⚡ FEATURED PROJECTS \</h2>
+\<h2 align="center">⚡ FEATURED PROJECTS\</h2>
 
 \<div align="center">
 
 \<a href="[https://github.com/FrigonF/Acadia](https://github.com/FrigonF/Acadia)">
-\<img src="[https://img.shields.io/badge/01%20%2F%20ACADIA-00F5D4?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/01%20%2F%20ACADIA-00F5D4?style=for-the-badge\&logo=github\&logoColor=black)" />
+\<img src="[https://img.shields.io/badge/01%20%2F%20ACADIA-00F5D4?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/01%20%2F%20ACADIA-00F5D4?style=for-the-badge\&logo=github\&logoColor=black)"/>
 \</a>
 
-\<a href="[https://github.com/FrigonF/Kairos](https://github.com/FrigonF/Kairos)">
-\<img src="[https://img.shields.io/badge/02%20%2F%20KAIROS-00F5D4?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/02%20%2F%20KAIROS-00F5D4?style=for-the-badge\&logo=github\&logoColor=black)" />
-\</a>
+\<a href="[https://github.com/FrigonF/Kairos](https://github.com/FrigonF/Kairos)"> \<img src="[https://img.shields.io/badge/02%20%2F%20KAIROS-00F5D4?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/02%20%2F%20KAIROS-00F5D4?style=for-the-badge\&logo=github\&logoColor=black)"/> \</a>
 
-\<br/>
+\<br/>\<br/>
 
 \<a href="[https://github.com/FrigonF/Acadia](https://github.com/FrigonF/Acadia)">Explore Acadia ↗\</a>
-
+   
 \<a href="[https://github.com/FrigonF/Kairos](https://github.com/FrigonF/Kairos)">Explore Kairos ↗\</a>
 
 \</div>
 
-\<h2 align="center"> ⚙️ TECH ARSENAL \</h2>
+\<h2 align="center">⚙️ TECH ARSENAL\</h2>
 
 \<div align="center">
 
@@ -65,7 +63,7 @@ Hey! I'm **Frigon**, a developer passionate about technology, artificial intelli
 
 \</div>
 
-\<h2 align="center"> 📊 GITHUB STATISTICS \</h2>
+\<h2 align="center">📊 GITHUB STATISTICS\</h2>
 
 \<div align="center">
 
@@ -79,15 +77,15 @@ Hey! I'm **Frigon**, a developer passionate about technology, artificial intelli
 
 \</div>
 
-\<h2 align="center"> 🐍 CONTRIBUTION MATRIX \</h2>
+\<h2 align="center">🐍 CONTRIBUTION MATRIX\</h2>
 
 \<div align="center">
 
-\<img src="[https://raw.githubusercontent.com/FrigonF/FrigonF/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/FrigonF/FrigonF/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake Animation"/>
+\<img src="[https://raw.githubusercontent.com/FrigonF/FrigonF/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/FrigonF/FrigonF/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="GitHub Contribution Snake"/>
 
 \</div>
 
-\<h2 align="center"> 🌐 CONNECT \</h2>
+\<h2 align="center">🌐 CONNECT\</h2>
 
 \<div align="center">
 
@@ -100,6 +98,6 @@ Hey! I'm **Frigon**, a developer passionate about technology, artificial intelli
 BUILD SOMETHING THAT MATTERS.
 ```
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:062A25,100:020403&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00F5D4,50:062A25,100:020403\&height=120\&section=footer)"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:062A25,100:020403&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00F5D4,50:062A25,100:020403\&height=120\&section=footer)" width="100%"/>
 
 \</div>
