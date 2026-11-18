@@ -1,0 +1,43 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020403"/>
+      <stop offset="55%" stop-color="#062A25"/>
+      <stop offset="100%" stop-color="#008F78"/>
+    </linearGradient>
+    <linearGradient id="glow">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#80FFE9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <path d="M0 220 L300 80 L600 220 L900 65 L1200 190"
+        fill="none" stroke="#00F5D4" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M0 250 H1200" stroke="#00F5D4" stroke-opacity=".35"/>
+
+  <g fill="#00F5D4" opacity=".55">
+    <circle cx="100" cy="55" r="3"/>
+    <circle cx="1080" cy="75" r="3"/>
+    <circle cx="1020" cy="220" r="2"/>
+    <circle cx="190" cy="210" r="2"/>
+  </g>
+
+  <text x="600" y="125" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="68"
+        font-weight="bold" letter-spacing="5"
+        fill="url(#glow)">LAKSHYA DIXIT</text>
+
+  <text x="600" y="175" text-anchor="middle"
+        font-family="monospace" font-size="19"
+        letter-spacing="4" fill="#FFFFFF">
+    AI &amp; ML  |  DEVELOPER  |  FOUNDER
+  </text>
+
+  <text x="600" y="225" text-anchor="middle"
+        font-family="monospace" font-size="13"
+        letter-spacing="3" fill="#00F5D4">
+    BUILDING BEYOND THE ORDINARY_
+  </text>
+</svg>
