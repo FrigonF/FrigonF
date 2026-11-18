@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,35:062A25,75:008F78,100:00F5D4&height=230&section=header&text=LAKSHYA%20DIXIT&fontSize=58&fontColor=00F5D4&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20DEVELOPER%20%7C%20FOUNDER&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/FrigonF/FrigonF/main/banner.svg" width="100%" alt="Lakshya Dixit - AI & ML Developer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=COMPUTER+SCIENCE+%7C+AI+%26+ML;BUILDING+INTELLIGENT+SYSTEMS;DEVELOPER+%7C+FOUNDER;LEARN.+BUILD.+INNOVATE." />
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=COMPUTER+SCIENCE+%7C+AI+%26+ML;BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+THE+FUTURE+OF+HCI;TURNING+AMBITIOUS+IDEAS+INTO+REALITY;LEARN.+BUILD.+INNOVATE." />
 
