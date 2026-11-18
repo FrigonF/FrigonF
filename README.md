@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=COMPUTER+SCIENCE+%7C+AI+%26+ML;BUILDING+INTELLIGENT+SYSTEMS;DEVELOPER+%7C+FOUNDER;LEARN.+BUILD.+INNOVATE." />
 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=COMPUTER+SCIENCE+%7C+AI+%26+ML;BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+THE+FUTURE+OF+HCI;TURNING+AMBITIOUS+IDEAS+INTO+REALITY;LEARN.+BUILD.+INNOVATE." />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=FrigonF&style=for-the-badge&color=00F5D4&label=PROFILE+VISITORS" />
